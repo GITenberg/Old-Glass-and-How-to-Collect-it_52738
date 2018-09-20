@@ -1,11 +1,16 @@
 _repo: Old-Glass-and-How-to-Collect-it_52738
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52738-h/images/cover.jpg
 creator:
   author:
     agent_name: Lewis, J. Sydney
     gutenberg_agent_id: '47024'
     url: http://www.gutenberg.org/2009/agents/47024
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52738#Old-Glass-and-How-to-Collect-it
 gutenberg_issued: '2016-08-06'
 gutenberg_type: Text
 identifiers:
